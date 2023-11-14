@@ -25,7 +25,7 @@ class _WebViewAppState extends State<WebViewApp> {
     super.initState();
     controller = WebViewController()
       ..loadRequest(
-        Uri.parse('https://amazon.com'),
+        Uri.parse('https://sites.google.com/ewsd.org/stemnewsletter/home'),
       );
   }
 
